@@ -7,6 +7,10 @@ env:
     IMAGE_TAG: latest
 
 phases:
+  install:
+    commands:
+      - echo Installing dependencies...
+
   pre_build:
     commands:
       - echo Logging in to Amazon ECR...
