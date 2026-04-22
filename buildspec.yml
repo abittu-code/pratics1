@@ -1,8 +1,8 @@
 version: 0.2
 
-env:
+  env:
   variables:
-    AWS_REGION: ap-south-1
+    AWS_REGION: us-east-1
     IMAGE_REPO_NAME: myapp-dev
     IMAGE_TAG: latest
 
