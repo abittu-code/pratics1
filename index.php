@@ -11,7 +11,7 @@ elseif ($page == 'about') {
 }
 elseif ($page == 'contact') {
     echo "<h1>📞 Contact Page</h1>";
-    echo "<p>Email: devops@example.com</p>";
+    echo "<p>Email: abittu@netclues.com</p>";
 }
 else {
     echo "<h1>❌ 404 Page Not Found</h1>";
